@@ -13,8 +13,8 @@
 | Nom              | Rôle                                      |
 |------------------|-------------------------------------------|
 | RAZANAPARANY Toky Faniriantsoa num 12 IGGLIA 5    | Lead Developer & Architecture ,Sentiment            |
-| (À compléter)    | NLP & IA (spellcheck, lemmatisation, NER) |
-| (À compléter)    | Autocomplétion, TTS & Chatbot  |
+| TIANARIMBOLA Andraina num 53 IGGLIA 5   | NLP & IA (spellcheck, lemmatisation, NER) |
+| RANOMENJANAHARY Frédéric Emmanuel num 5 ESIIA 5 | Autocomplétion, TTS & Chatbot  |
 
 
 
